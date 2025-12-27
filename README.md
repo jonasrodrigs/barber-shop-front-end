@@ -1,19 +1,9 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>barber-shop-ui</h1>
-  </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="#"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Intermediário&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+  <img src="https://img.shields.io/static/v1?labe&message &color=E94D5F&labelColor=202024 />
+  <a href="#"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Intermediário&color=E94D5F&labelColor=202024" alt="" ></a>
 </p>
 
 <!--  -->
@@ -27,9 +17,10 @@
       </a>
     </td>
     <td colspan="3">
-    <p>💻 Desenvolvedor Fullstack com foco em Angular, Java e Spring Boot.<br/>
-     🚀 Estudante de ADS na Unifacite | Formação prática no DevClub.<br/>
-     🧠 Apaixonado por tecnologia, aprendizado contínuo e criação de projetos úteis!
+    <p> Analista de Soluções com atuação Full Stack, experiência no desenvolvimento de aplicações web
+e APIs em ambientes corporativos e bancários. Atuação com autonomia técnica, propondo e
+implementando soluções que envolvem frontend, backend e banco de dados relacional, com foco
+em integridade, escalabilidade e colaboração em squads ágeis
     </p>
       <a 
       href="https://www.linkedin.com/in/jonasrodriguesdev/" 
@@ -56,11 +47,11 @@
 <br/>
 <br/>
 
-## 💻 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto consiste em uma aplicação Angular para agendamento de serviços em uma barbearia. Utilizamos Angular Material e exploramos os principais conceitos do framework Angular como componentização, consumo de APIs e interação com backend.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## Pré-requisitos de Habilidades e Níveis de Conhecimento
 
 Antes de iniciar, recomenda-se ter conhecimento em:
 
@@ -70,7 +61,7 @@ Antes de iniciar, recomenda-se ter conhecimento em:
   - CSS | Intermediário
   - Docker e Docker Compose | Básico (opcional)
 
-## 🛠️ Habilidades e Sub-habilidades Abordadas
+## Habilidades e Sub-habilidades Abordadas
 
 - **Frontend**
   - Angular + Material Design
@@ -78,7 +69,7 @@ Antes de iniciar, recomenda-se ter conhecimento em:
   - Consumo de API REST
   - Integração com backend
 
-## 🎯 Objetivos e Resultados Esperados
+## Objetivos e Resultados Esperados
 
 Ao final do projeto, você será capaz de:
 
